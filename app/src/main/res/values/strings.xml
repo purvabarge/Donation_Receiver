@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Donation Receiver</string>
+    <string name="click_here_to_register_your_organization">Click here to register your organization</string>
+    <string name="hello_receiver">Hello Receiver!</string>
+    <string name="add_your_organization_details">Add your organization details</string>
+    <string name="name">Name</string>
+    <string name="name_asha">Name(Asha)</string>
+    <string name="organization_name">Organization Name</string>
+    <string name="address">Address</string>
+    <string name="organization_address">Organization Address</string>
+    <string name="organization_name_eg_asha">Organization Name (eg. Asha)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="organization_license_number">Organization License Number</string>
+    <string name="next">Next</string>
+    <string name="upload_your_requirements">Upload your requirements</string>
+    <string name="clothes">Clothes</string>
+    <string name="food">Food</string>
+    <string name="educational_material">Educational Material</string>
+    <string name="toys">Toys</string>
+    <string name="done">Done</string>
+    <string name="thank_you_your_donors_will_contact_you">Thank You! Your donors will contact you!</string>
+    <string name="back_to_receiver_home_page">Back to Receiver Home Page</string>
+    <string name="donation_requests">Donation Requests</string>
+    <string name="upload_requirements">Upload Requirements</string>
+    <string name="email_address">Email Address</string>
+</resources>
